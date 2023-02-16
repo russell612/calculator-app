@@ -91,3 +91,10 @@ body {
 #clear, #delete {
     width: 50%;
 }
+
+#initial-screen, #result-screen {
+    max-height: 40%;
+    overflow: hidden;
+    font-size: 43px;
+}
+
